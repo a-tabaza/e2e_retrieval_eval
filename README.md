@@ -107,10 +107,3 @@ To adapt the framework for different languages:
 ## Contributing
 
 Feel free to submit issues and enhancement requests. If you flag any glaring errors in my methodology please do let me know, I am new to all of this and always eager to learn.
-
-## Citation
-
-If you use this framework in your research, please cite:
-```
-[Your citation information]
-```
