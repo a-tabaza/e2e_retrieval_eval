@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+models/
+*.json
+.env
+qrels.txt
+chunks.usearch

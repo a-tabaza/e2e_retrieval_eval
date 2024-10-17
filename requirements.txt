@@ -1,0 +1,23 @@
+# uv pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+openai
+bm25s
+cohere
+langchain-text-splitters
+huggingface-hub
+numpy
+tqdm
+usearch
+pymediawiki
+ir-measures
+pandas
+scikit-learn
+onnxruntime
+transformers
+mishkal
+pyarabic
+ipykernel
+python-dotenv
+FlashRank
+Arabic-Stopwords
+PyStemmer
+sentence-transformers
